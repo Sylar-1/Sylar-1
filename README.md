@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Percy Alexander</h1>
-
-###
-
 <p align="center">A passionate developer from Peru</p>
+<p align="left">Connect with me:
+  <a href="https://www.linkedin.com/in/percy-alexander/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/percy.alexander.xd/?hl=es" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</p>
 
-###
-
-<p align="left">Connect with me:</p>
-
-###
 
 <p align="left">Languages</p>
 
