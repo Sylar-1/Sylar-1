@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Percy Alexander</h1>
   <p><b>Systems Engineer | Backend Specialist | DevSecOps Enthusiast</b></p>
-  <p>Especialista en soluciones escalables con alto enfoque en seguridad y arquitectura.</p>
+  <p>Specialist in scalable solutions with a strong focus on security and architecture.</p>
 </div>
 
 ---
